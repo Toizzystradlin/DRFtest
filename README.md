@@ -3,10 +3,14 @@
 Use the URLconf defined in drf_test.urls:
 
 admin/
-api/ rooms/
-api/ all_bookings/
-api/ id_bookings
-api/ rest-auth/
+
+api/rooms/
+
+api/all_bookings/
+
+api/id_bookings
+
+api/rest-auth/
 
 http://195.2.80.66:8000/api/id_bookings?room_id=2  # show bookings on room_id
 
