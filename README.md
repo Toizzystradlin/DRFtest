@@ -18,4 +18,5 @@ http://195.2.80.66:8000/api/all_bookings/?datetime_from=2020-12-29T09:00:00&date
 
 auth:
 login - admin
+
 password - admin
